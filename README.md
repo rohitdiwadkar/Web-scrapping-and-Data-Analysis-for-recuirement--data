@@ -4,4 +4,6 @@ We developed this desktop based application to help any company to scrape the de
 
 In this project we have developed a desktop based application by using node.js, HTML for GUI and for scarpper we used python and for database Mysql workbench.
 
+Tableau is used for creating a dashboard for HR and bussiness guys to understand the insights clearly through visualisation.
+
 Please feel free to update or improve this application.
